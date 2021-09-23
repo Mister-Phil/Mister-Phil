@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Learning
 - 🌱 I’m currently learning ... HTML, CSS, JS, Python, Flutter, UX.
 - 💞️ I’m looking to collaborate on ... AR, VR, A.I. projects. 
-- 📫 How to reach me ... email: jav-philippe.pyram@hec.ca & philippe_pyram@yahoo.com
+- 📫 How to reach me ... email: philippe_pyram@yahoo.com
 - Have a nice day! :)
 
 <!---
